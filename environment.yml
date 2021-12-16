@@ -5,6 +5,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - pandas
   - ipython=7.15.0
   - humanfriendly=4.18
   - jupyter=1.0.0
